@@ -1,4 +1,4 @@
-Todo List MVC is like TODOMVC but for Java web Frameworks instead of javascript Frameworks.
+Todo List MVC is like TODOMVC but for Java web Frameworks 
 
 About TODOLIST MVC
 todolist MVC is the classic CRUD web application to manage todo list online. 
